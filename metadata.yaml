@@ -1,0 +1,27 @@
+_repo: The-Mouse-and-The-Moonbeam_27697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
+description: ''
+gutenberg_issued: '2009-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PS'
+title: The Mouse and The Moonbeam
+url: http://www.gutenberg.org/ebooks/27697
