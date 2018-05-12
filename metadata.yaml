@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/238
     wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27697#The-Mouse-and-The-Moonbeam
 gutenberg_issued: '2009-01-04'
 gutenberg_type: Text
 identifiers:
